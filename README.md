@@ -11,7 +11,7 @@
     text-align: center;
   }
   table {
-    margin: auto;
+    margin: auto; widt
     border: solid 3px;
     border-collapse: collapse;
   }
